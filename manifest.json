@@ -2,16 +2,16 @@
   "background_color": "#ffffff",
   "description": "ТайВики — ваш главный бесплатный гид по Таиланду. Актуальные путеводители по Пхукету, Паттайе, Самуи и другим курортам, полный справочник туриста, а также сервисы для подбора туров и билетов. AI - Консультант по Таиланду ТайВики поможет быстро найти нужную информацию об отдыхе в Таиланде! Спланируйте Ваше идеальное путешествие в Таиланд с нашими путеводителями, советами и лайфхаками!",
   "dir": "ltr",
-  "display": "minimal-ui",
-  "name": "ТайВики",
-  "orientation": "portrait",
-  "scope": "https://thaiwiki.ru",
-  "short_name": "ТайВики",
-  "start_url": "https://thaiwiki.ru",
+  "display": "standalone",
+  "name": "thaiwiki",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "thaiwiki",
+  "start_url": "/",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://static.tildacdn.com/tild3233-6562-4437-b134-333466326262/LOGO_IN_ROUND.png",
+      "src": "https://static.tildacdn.com/tild6461-3632-4636-a439-363330376238/32.png",
       "type": "image/png",
       "sizes": "32x32",
       "isSquare": true,
@@ -24,7 +24,7 @@
       "is192x192": false
     },
     {
-      "src": "https://static.tildacdn.com/tild6535-3265-4136-b063-373033316533/favicon-32x32.png",
+      "src": "https://static.tildacdn.com/tild3164-6166-4230-b431-396435643265/32.png",
       "type": "image/png",
       "sizes": "32x32",
       "isSquare": true,
@@ -50,7 +50,7 @@
       "is192x192": false
     },
     {
-      "src": "https://static.tildacdn.com/tild6131-3861-4366-a632-393835656363/apple-touch-icon-180.png",
+      "src": "https://static.tildacdn.com/tild6235-6563-4264-b131-323166343862/180.png",
       "type": "image/png",
       "sizes": "192x192",
       "isSquare": true,
@@ -63,44 +63,30 @@
       "is192x192": true
     },
     {
-      "src": "https://static.tildacdn.com/tild3962-3265-4334-b231-623066343639/LOGO_IN_ROUND.png",
+      "src": "https://static.tildacdn.com/tild3865-3863-4262-b065-336534396663/1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1024,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://thaiwikitravel-pwa.github.io/thaiwiki-pwa/626.png",
       "type": "image/png",
       "sizes": "626x626",
       "isSquare": true,
-      "isPng": true,
+      "isPng": false,
       "isWebp": false,
       "isJpg": false,
       "width": 626,
       "is512x512": false,
       "is256x256": false,
       "is192x192": false
-    },
-  ]
-  "lang": "ru",
-  "categories": [
-    "lifestyle",
-    "photo",
-    "travel"
-  ],
-  "id": "thaiwiki",
-  "share_target": {
-    "method": "GET",
-    "action": "https://thaiwiki.ru",
-    "params": {
-      "title": "ТайВики",
-      "url": "https://thaiwiki.ru"
     }
-  },
-  "shortcuts": [
-    {
-      "name": "ТайВики",
-      "url": "https://thaiwiki.ru",
-      "description": ""
-    }
-  ],
-  "display_override": [
-    "minimal-ui",
-    "standalone",
-    "window-controls-overlay"
   ]
 }
