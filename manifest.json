@@ -75,19 +75,6 @@
       "is256x256": false,
       "is192x192": false
     },
-    {
-      "src": "https://thaiwiki.ru/favicon.ico",
-      "type": "image/x-icon",
-      "sizes": "626x626",
-      "isSquare": true,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 626,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
-    }
   ],
   "lang": "ru",
   "categories": [
