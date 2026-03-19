@@ -2,12 +2,12 @@
   "background_color": "#ffffff",
   "description": "ТайВики — ваш главный бесплатный гид по Таиланду. Актуальные путеводители по Пхукету, Паттайе, Самуи и другим курортам, полный справочник туриста, а также сервисы для подбора туров и билетов. AI - Консультант по Таиланду ТайВики поможет быстро найти нужную информацию об отдыхе в Таиланде! Спланируйте Ваше идеальное путешествие в Таиланд с нашими путеводителями, советами и лайфхаками!",
   "dir": "ltr",
-  "display": "standalone",
+  "display": "minimal-ui",
   "name": "ТайВики",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "https://thaiwiki.ru",
   "short_name": "ТайВики",
-  "start_url": "/",
+  "start_url": "https://thaiwiki.ru",
   "theme_color": "#ffffff",
   "icons": [
     {
@@ -91,6 +91,29 @@
   ],
   "lang": "ru",
   "categories": [
+    "lifestyle",
+    "photo",
     "travel"
+  ],
+  "id": "thaiwiki",
+  "share_target": {
+    "method": "GET",
+    "action": "https://thaiwiki.ru",
+    "params": {
+      "title": "ТайВики",
+      "url": "https://thaiwiki.ru"
+    }
+  },
+  "shortcuts": [
+    {
+      "name": "ТайВики",
+      "url": "https://thaiwiki.ru",
+      "description": ""
+    }
+  ],
+  "display_override": [
+    "minimal-ui",
+    "standalone",
+    "window-controls-overlay"
   ]
 }
