@@ -1,0 +1,96 @@
+{
+  "background_color": "#ffffff",
+  "description": "ТайВики — ваш главный бесплатный гид по Таиланду. Актуальные путеводители по Пхукету, Паттайе, Самуи и другим курортам, полный справочник туриста, а также сервисы для подбора туров и билетов. AI - Консультант по Таиланду ТайВики поможет быстро найти нужную информацию об отдыхе в Таиланде! Спланируйте Ваше идеальное путешествие в Таиланд с нашими путеводителями, советами и лайфхаками!",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ТайВики",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "ТайВики",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://static.tildacdn.com/tild3233-6562-4437-b134-333466326262/LOGO_IN_ROUND.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 32,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://static.tildacdn.com/tild6535-3265-4136-b063-373033316533/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 32,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://static.tildacdn.com/tild3265-3466-4239-a338-336433396333/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://static.tildacdn.com/tild6131-3861-4366-a632-393835656363/apple-touch-icon-180.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 192,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": true
+    },
+    {
+      "src": "https://static.tildacdn.com/tild3962-3265-4334-b231-623066343639/LOGO_IN_ROUND.png",
+      "type": "image/png",
+      "sizes": "626x626",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 626,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://thaiwiki.ru/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "626x626",
+      "isSquare": true,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 626,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "lang": "ru",
+  "categories": [
+    "travel"
+  ]
+}
